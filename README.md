@@ -6,6 +6,11 @@
   <p align="center">A dark mode extension for Google Classroom</p>
 </b>
 
+> [!NOTE]
+> I am planning to remake this extension in the future. No idea when but this repository is an absolute dumpster fire.
+> 
+> I fucked it up a lot too with interactive rebase
+
 # School-At-Midnight
 
 As a student, you’ve probably found yourself staying up late to finish assignments on platforms like Google Classroom. However, the bright light of the default light mode can be harsh on your eyes in the dark. This dark mode extension helps you work more comfortably in the dark.
@@ -49,3 +54,4 @@ In the top right you can see a new button. Pressing it will toggle between light
 
 ## Credits
 The extension first started off as a [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/very-cool-dark-mode/) by [@waymondrang](https://github.com/waymondrang). After encountering a few issues and noticing that the extension wasn't being maintained much anymore, I decided to take matters into my own hands and improve it.
+
